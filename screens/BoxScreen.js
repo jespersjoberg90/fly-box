@@ -10,6 +10,7 @@ import {
 import { SafeAreaView } from 'react-native-safe-area-context';
 import catalog from '../data/troutFlies.json';
 import { useFlyBox } from '../context/FlyBoxContext';
+import { catalogTheme as t } from '../constants/catalogTheme';
 
 const catalogById = Object.fromEntries(catalog.map((c) => [c.catalogId, c]));
 
@@ -88,7 +89,7 @@ export default function BoxScreen() {
 const styles = StyleSheet.create({
   safe: {
     flex: 1,
-    backgroundColor: '#f2f2f7',
+    backgroundColor: t.bg,
   },
   centered: {
     flex: 1,
@@ -102,12 +103,12 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 28,
     fontWeight: '700',
-    color: '#1c1c1e',
+    color: t.text,
     marginBottom: 4,
   },
   subtitle: {
     fontSize: 15,
-    color: '#636366',
+    color: t.textSecondary,
   },
   listContent: {
     paddingHorizontal: 16,
@@ -121,20 +122,22 @@ const styles = StyleSheet.create({
   },
   emptyHint: {
     textAlign: 'center',
-    color: '#636366',
+    color: t.textSecondary,
     fontSize: 16,
     lineHeight: 22,
   },
   card: {
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: '#fff',
-    borderRadius: 12,
+    backgroundColor: t.card,
+    borderRadius: 14,
     padding: 14,
     marginBottom: 10,
-    shadowColor: '#000',
+    borderWidth: 1,
+    borderColor: t.cardBorder,
+    shadowColor: t.shadow,
     shadowOffset: { width: 0, height: 1 },
-    shadowOpacity: 0.06,
+    shadowOpacity: 1,
     shadowRadius: 3,
     elevation: 2,
   },
@@ -145,25 +148,29 @@ const styles = StyleSheet.create({
   name: {
     fontSize: 17,
     fontWeight: '600',
-    color: '#1c1c1e',
+    color: t.text,
   },
   meta: {
     fontSize: 14,
-    color: '#636366',
+    color: t.textSecondary,
     marginTop: 4,
   },
   hook: {
     fontSize: 13,
-    color: '#8e8e93',
+    color: t.textMuted,
     marginTop: 4,
   },
   removeBtn: {
     paddingVertical: 8,
-    paddingHorizontal: 4,
+    paddingHorizontal: 10,
+    borderRadius: 10,
+    backgroundColor: t.accentSoft,
+    borderWidth: 1,
+    borderColor: t.cardBorder,
   },
   removeLabel: {
-    color: '#ff3b30',
+    color: t.primaryLight,
     fontWeight: '600',
-    fontSize: 16,
+    fontSize: 14,
   },
 });

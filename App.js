@@ -6,6 +6,7 @@ import { Ionicons } from '@expo/vector-icons';
 import { FlyBoxProvider } from './context/FlyBoxContext';
 import CatalogNavigator from './navigation/CatalogNavigator';
 import BoxScreen from './screens/BoxScreen';
+import { catalogTheme as t } from './constants/catalogTheme';
 
 const Tab = createBottomTabNavigator();
 
@@ -17,11 +18,11 @@ export default function App() {
           <Tab.Navigator
             screenOptions={{
               headerShown: false,
-              tabBarActiveTintColor: '#007aff',
-              tabBarInactiveTintColor: '#8e8e93',
+              tabBarActiveTintColor: t.primary,
+              tabBarInactiveTintColor: t.textMuted,
               tabBarStyle: {
-                backgroundColor: '#f9f9f9',
-                borderTopColor: '#c6c6c8',
+                backgroundColor: t.card,
+                borderTopColor: t.cardBorder,
               },
             }}
           >
