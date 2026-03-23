@@ -1,0 +1,1332 @@
+[
+  {
+    "catalogId": "adams-12",
+    "name": "Adams #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "ant-misbehavin-logans-14",
+    "name": "Ant Misbehavin Logans",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "antonios-emerger-bwo-18",
+    "name": "Antonio's Emerger BWO",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "antonios-quill-midge-hi-vis-18",
+    "name": "Antonio's Quill Midge HI VIS",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "aurivillii-14",
+    "name": "Aurivillii",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "baetis-dark-olive-18",
+    "name": "Baetis Dark Olive",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "baetis-klekker-dark-olive-18",
+    "name": "Baetis Klekker Dark Olive",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "baetis-klekker-olive-18",
+    "name": "Baetis Klekker Olive",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "baetis-medium-olive-18",
+    "name": "Baetis Medium Olive",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "baetis-quill-perdigon-16",
+    "name": "Baetis Quill Perdigon",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "biot-dun-aurivillii-14",
+    "name": "Biot Dun Aurivillii",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "biot-dun-medium-olive-18",
+    "name": "Biot Dun Medium Olive",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "black-and-purple-16",
+    "name": "Black & Purple",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "black-flying-ant-bl-black-flying-ant-18",
+    "name": "Black Flying Ant BL",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "black-gnat-16",
+    "name": "Black Gnat",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "black-holotag-shuttlecock-18",
+    "name": "Black Holotag Shuttlecock",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "black-olive-flexi-buzzer-16",
+    "name": "Black Olive Flexi Buzzer",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "blood-heart-nymph-14",
+    "name": "Blood Heart Nymph",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "bootlace-orange-tag-14",
+    "name": "Bootlace Orange Tag",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "bs-grandisklekker-8",
+    "name": "Bs Grandisklekker",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-and-foam-bibio-12",
+    "name": "Cdc & Foam Bibio #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-biot-comparadun-olive-18",
+    "name": "CDC Biot Comparadun Olive",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-biot-comparadun-quill-gordon-16",
+    "name": "CDC Biot Comparadun Quill Gordon",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-biot-dun-emerger-bwo-18",
+    "name": "Cdc Biot Dun Emerger BWO",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-biot-dun-emerger-dk-olive-18",
+    "name": "Cdc Biot Dun Emerger DK Olive",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-biot-dun-emerger-lepto-18",
+    "name": "Cdc Biot Dun Emerger Lepto",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-biot-dun-emerger-pmd-18",
+    "name": "Cdc Biot Dun Emerger PMD",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-biot-spinner-rusty-14",
+    "name": "CDC Biot Spinner Rusty",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-black-ant-16",
+    "name": "CDC Black Ant",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-caddis-adult-olive-14",
+    "name": "CDC Caddis Adult Olive",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-daddy-long-legs-12",
+    "name": "CDC Daddy Long Legs #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-elk-caddis-brown-16",
+    "name": "CDC Elk Caddis Brown",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-elk-caddis-olive-14",
+    "name": "CDC Elk Caddis Olive",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-flash-spinner-17",
+    "name": "CDC Flash Spinner",
+    "hookSize": "17",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-midge-18",
+    "name": "Cdc Midge",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-midge-adult-black-20",
+    "name": "CDC Midge Adult Black",
+    "hookSize": "20",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-midge-black-18",
+    "name": "Cdc Midge Black",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-midge-emerger-18",
+    "name": "Cdc Midge Emerger",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-midge-olive-18",
+    "name": "Cdc Midge Olive",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-palomino-midge-cdc-palomino-midge-20",
+    "name": "CDC Palomino Midge",
+    "hookSize": "20",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "comparadun-bwo-18",
+    "name": "Comparadun BWO",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "comparadun-lepto-14",
+    "name": "Comparadun Lepto",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "comparadun-sulphur-12",
+    "name": "Comparadun Sulphur #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "copper-dreams-perdigon-18",
+    "name": "Copper Dreams Perdigon",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "copper-john-16",
+    "name": "Copper John",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "copper-john-black-16",
+    "name": "Copper John Black",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "copper-john-red-16",
+    "name": "Copper John Red",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "czech-weapon-16",
+    "name": "Czech Weapon",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "czech-weapon-depthfinder-14",
+    "name": "Czech Weapon Depthfinder",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "daddy-long-legs-10",
+    "name": "Daddy Long Legs #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "damsel-nymph-barrs-10",
+    "name": "Damsel Nymph Barr's #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "danica-dun-10",
+    "name": "Danica Dun #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "dk-brown-flashback-ptn-16",
+    "name": "DK Brown Flashback PTN",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "double-legs-12",
+    "name": "Double Legs",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "dyret-original-17",
+    "name": "Dyret Original",
+    "hookSize": "17",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "elk-caddis-brown-16",
+    "name": "Elk Caddis Brown",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "ephemera-nymfe-8",
+    "name": "Ephemera Nymfe #8",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "ephemerella-klekker-12",
+    "name": "Ephemerella Klekker",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "europea-12-14",
+    "name": "Europea 12",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "f-ismo-green-grey-10",
+    "name": "F-ismo Green-Grey #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "f-ismo-yellow-olive-10",
+    "name": "F-ismo Yellow-Olive #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "faux-mini-daddy-12",
+    "name": "Faux Mini Daddy #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "fire-butt-perdigon-brown-fire-butt-perdigon-brown-18",
+    "name": "Fire Butt Perdigon - Brown",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "fire-butt-perdigon-golden-olive-fire-butt-perdigon-g-olive-18",
+    "name": "Fire Butt Perdigon - Golden Olive",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "fire-butt-perdigon-olive-fire-butt-perdigon-olive-18",
+    "name": "Fire Butt Perdigon - Olive",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "flash-prince-16",
+    "name": "Flash Prince",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "flashback-pheasant-tail-14",
+    "name": "Flashback Pheasant Tail",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "flying-ant-black-16",
+    "name": "Flying Ant Black",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "flying-ant-cinnamon-16",
+    "name": "Flying Ant Cinnamon",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "foam-beetle-lawsons-16",
+    "name": "Foam Beetle Lawsons #16",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "foam-flying-ant-14",
+    "name": "Foam Flying Ant",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "foam-mayfly-emerger-8",
+    "name": "Foam Mayfly Emerger #8",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "foam-spider-black-12",
+    "name": "Foam Spider Black #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "french-nymph-16",
+    "name": "French Nymph",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "funky-shrimp-14",
+    "name": "Funky Shrimp",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "gfa-hopper-10-black",
+    "name": "GFA Hopper #10 - Black",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "gfa-hopper-10-brown",
+    "name": "GFA Hopper #10 - Brown",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "gfa-hopper-10-yellow",
+    "name": "GFA Hopper #10 - Yellow",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "gl-classic-long-legs-12",
+    "name": "GL Classic Long Legs #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "gl-danica-dun-10",
+    "name": "GL Danica Dun #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "gl-danica-spent-spinner-10",
+    "name": "GL Danica Spent Spinner #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "gl-streaking-caddis-8",
+    "name": "GL Streaking Caddis",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "gl-vulgata-dun-10",
+    "name": "GL Vulgata Dun #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "gl-vulgata-spent-spinner-10",
+    "name": "GL Vulgata Spent Spinner #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "goddard-caddis-12",
+    "name": "Goddard Caddis",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "gold-bead-hares-ear-16",
+    "name": "Gold Bead Hares Ear",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "grayling-slayer-16",
+    "name": "Grayling Slayer",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "griffiths-gnat-20",
+    "name": "Griffiths Gnat",
+    "hookSize": "20",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "groethemuddlern-8",
+    "name": "Grøthemuddlern",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "gummy-nymph-brown-gummy-nymph-brown-18",
+    "name": "Gummy Nymph - Brown",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "gummy-nymph-pumpkin-gummy-nymph-pumpkin-18",
+    "name": "Gummy Nymph - Pumpkin",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "hares-ear-gold-rib-16",
+    "name": "Hares Ear Gold Rib",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "hatching-midge-blackgrey-16",
+    "name": "Hatching Midge Black/Grey",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "high-viz-peacock-beetle-16",
+    "name": "High-Viz Peacock Beetle",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "high-viz-rufa-ant-14",
+    "name": "High-Viz Rufa Ant #14",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "hopper-bibio-14",
+    "name": "Hopper Bibio",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "ignita-16",
+    "name": "Ignita",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "ignita-flash-17",
+    "name": "Ignita Flash",
+    "hookSize": "17",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "indi-black-klink-12",
+    "name": "Indi Black Klink #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "indi-caddis-12",
+    "name": "Indi Caddis #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "indi-klink-12",
+    "name": "Indi Klink #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "ismopuppan-green-10",
+    "name": "Ismopuppan Green #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "ismopuppan-original-10",
+    "name": "Ismopuppan Original #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "killer-blue-16",
+    "name": "Killer Blue",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "killer-chocolate-perdigon-16",
+    "name": "Killer Chocolate Perdigon",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "killer-red-tag-perdigon-16",
+    "name": "Killer Red Tag Perdigon",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "klink-black-biot-16",
+    "name": "Klink Black Biot",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "klink-dk-olive-biot-16",
+    "name": "Klink Dk. Olive Biot",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "klink-lt-olive-biot-16",
+    "name": "Klink Lt. Olive Biot",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "klinkhammer-14",
+    "name": "Klinkhammer",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "klinkhammer-olive-16",
+    "name": "Klinkhammer Olive",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "kronen-cdc-caddis-brown-14",
+    "name": "Kronen CDC Caddis Brown",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "kronen-cdc-caddis-olive",
+    "name": "Kronen CDC Caddis Olive",
+    "hookSize": null,
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "lasius-flying-ant-14",
+    "name": "Lasius Flying Ant #14",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "leptoklekker-14",
+    "name": "Leptoklekker",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "leptonymfa-14",
+    "name": "Leptonymfa",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "madam-x-10",
+    "name": "Madam X #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "mallard-claret-12",
+    "name": "Mallard And Claret #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "march-brown-double-8",
+    "name": "March Brown",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "marginata-14",
+    "name": "Marginata",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "montana-stone-8",
+    "name": "Montana Stone",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "mop-dragon-brown-10",
+    "name": "Mop Dragon Brown #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "mop-dragon-olive-10",
+    "name": "Mop Dragon Olive #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "morgans-para-midge-charcoal-18",
+    "name": "Morgan's Para-Midge Charcoal",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "mosquito-18",
+    "name": "Mosquito",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "olive-flash-17",
+    "name": "Olive Flash",
+    "hookSize": "17",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "olsen-double-8",
+    "name": "Olsen",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "parachute-ant-16",
+    "name": "Parachute Ant",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "parachute-black-16",
+    "name": "Parachute Black",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "parachute-long-legs-10",
+    "name": "Parachute Long Legs #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "pheasant-killer-16",
+    "name": "Pheasant Killer",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "pliva-perdigon-16",
+    "name": "Pliva Perdigon",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "pliva-shuttlecock-18",
+    "name": "Pliva Shuttlecock",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "prince-nymph-gold-bead-14",
+    "name": "Prince Nymph Gold Bead",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "profile-spinner-rusty-14",
+    "name": "Profile Spinner Rusty",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "rakkelhanen-16",
+    "name": "Rakkelhanen",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "red-butt-perdigon-16",
+    "name": "Red Butt Perdigon",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "red-tag-16",
+    "name": "Red Tag",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "rena-midge-18",
+    "name": "Rena Midge",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "renaflua-brown-14",
+    "name": "Renaflua Brown",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "rs-dragon-fly-nymph-dark-brown-10",
+    "name": "RS Dragon Fly Nymph Dark Brown #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "rs-dragon-fly-nymph-olive-10",
+    "name": "Rs Dragon Fly Nymph Olive #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "rs-glue-ant-black-14",
+    "name": "RS Glue Ant Black",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "rs-glue-ant-rusty-brown-16",
+    "name": "RS Glue Ant Rusty Brown",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "rufa-flying-ant-12",
+    "name": "Rufa Flying Ant #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "runes-midge-emerger-18",
+    "name": "Rune's Midge Emerger",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "runes-cdc-nohackle-lt-olive-18",
+    "name": "Runes CDC Nohackle Lt. Olive",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "runes-cdc-nohackle-olive-18",
+    "name": "Runes CDC Nohackle Olive",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "russer-flua-12",
+    "name": "Russer Flua #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "rusty-brown-flexi-buzzer-16",
+    "name": "Rusty Brown Flexi Buzzer",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "scud-cream-and-orange-12",
+    "name": "Scud Cream & Orange #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "scud-natural-12",
+    "name": "Scud Natural #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "scud-olive-and-grey-12",
+    "name": "Scud Olive & Grey #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "shuttlecock-emerger-baetis-16",
+    "name": "Shuttlecock Emerger Baetis",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "shuttlecock-emerger-lepto-16",
+    "name": "Shuttlecock Emerger Lepto",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "shuttlecock-emerger-ptn-16",
+    "name": "Shuttlecock Emerger PTN",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "skogsmaur-14",
+    "name": "Skogsmaur",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "spider-midge-genders-black-16",
+    "name": "Spider Midge Genders Black",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "squirmie-wormie-pink-12",
+    "name": "Squirmie Wormie - Pink #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "squirmie-wormie-red-12",
+    "name": "Squirmie Wormie - Red #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "stokkmaur-10",
+    "name": "Stokkmaur #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "streaking-caddis-8",
+    "name": "Streaking Caddis",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "streaking-caddis-golden-brown-8",
+    "name": "Streaking Caddis Golden Brown",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "sulphurea-12",
+    "name": "Sulphurea #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "super-dyret-brownyellow-15",
+    "name": "Super Dyret Brown/Yellow",
+    "hookSize": "15",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "super-emerging-caddis-brownolive-10",
+    "name": "Super Emerging Caddis Brown/Olive",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "super-emerging-caddis-cinnamon-12",
+    "name": "Super Emerging Caddis Cinnamon",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "superpuppan-creambrown-14",
+    "name": "Superpuppan Cream/Brown",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "superpuppan-greengrey-14",
+    "name": "Superpuppan Green/Grey",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "superpuppan-olive-16",
+    "name": "Superpuppan Olive",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "superpuppan-yellow-8",
+    "name": "Superpuppan Yellow",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "sweet-pheasant-16",
+    "name": "Sweet Pheasant",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "tactical-ptn-natural-18",
+    "name": "Tactical PTN - Natural",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "tactical-ptn-pmd-18",
+    "name": "Tactical PTN – PMD",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "the-favourite-perdigon-16",
+    "name": "The Favourite Perdigon",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "the-pearl-hare-16",
+    "name": "The Pearl Hare",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "transparant-ant-blackred-14",
+    "name": "Transparant Ant Black/Red",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "tsjernobyl-ant-8",
+    "name": "Tsjernobyl Ant #8",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "ultra-damsel-variant-12",
+    "name": "Ultra Damsel Variant #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "verre-enn-minken-double-8",
+    "name": "Verre Enn Minken",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "vespertina-18",
+    "name": "Vespertina",
+    "hookSize": "18",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "vi-menn-flua-double-8",
+    "name": "Vi Menn Flua",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "vulgata-10",
+    "name": "Vulgata #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "vulgata-dun-10",
+    "name": "Vulgata Dun #10",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "vulgata-gosling-8",
+    "name": "Vulgata Gosling #8",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "vulgata-klekker-8",
+    "name": "Vulgata Klekker #8",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "vulgata-nymph-8",
+    "name": "Vulgata Nymph #8",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "yellow-owl-shuttlecock-16",
+    "name": "Yellow Owl Shuttlecock",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "zulu-double-8",
+    "name": "Zulu",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "zulu-silver-double-8",
+    "name": "Zulu Silver",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  }
+]

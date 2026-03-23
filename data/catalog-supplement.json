@@ -1,0 +1,79 @@
+[
+  {
+    "catalogId": "mallard-claret-12",
+    "name": "Mallard And Claret #12",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "hatching-midge-blackgrey-16",
+    "name": "Hatching Midge Black/Grey",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "ephemerella-klekker-12",
+    "name": "Ephemerella Klekker",
+    "hookSize": "12",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "cdc-caddis-adult-olive-14",
+    "name": "CDC Caddis Adult Olive",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "rakkelhanen-16",
+    "name": "Rakkelhanen",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "groethemuddlern-8",
+    "name": "Grøthemuddlern",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "flash-prince-16",
+    "name": "Flash Prince",
+    "hookSize": "16",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "transparant-ant-blackred-14",
+    "name": "Transparant Ant Black/Red",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "foam-flying-ant-14",
+    "name": "Foam Flying Ant",
+    "hookSize": "14",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "bs-grandisklekker-8",
+    "name": "Bs Grandisklekker",
+    "hookSize": "8",
+    "flyType": null,
+    "hatch": null
+  },
+  {
+    "catalogId": "super-emerging-caddis-brownolive-10",
+    "name": "Super Emerging Caddis Brown/Olive",
+    "hookSize": "10",
+    "flyType": null,
+    "hatch": null
+  }
+]
